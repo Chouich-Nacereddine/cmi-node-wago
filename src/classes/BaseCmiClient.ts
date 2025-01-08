@@ -6,7 +6,7 @@ export default class BaseCmiClient implements CmiClientinterface {
   /**
    * string default base url for CMI's API
    */
-  readonly DEFAULT_API_BASE_URL = 'https://testpayment.cmi.co.ma';
+  readonly DEFAULT_API_BASE_URL = 'https://payment.cmi.co.ma';
 
   /**
    * array of languages supported by CMI
